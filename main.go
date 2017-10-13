@@ -1,6 +1,7 @@
 package main
 import (
- "log"
+	"fmt"
+	"log"
  "net/http"
 "github.com/gorilla/mux"
 )
